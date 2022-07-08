@@ -8,3 +8,6 @@ Project นี้สร้างขึ้นเพื่อความรวด
 
 - [@blackdicems](https://www.github.com/blackdicems)
 
+
+## Badges
+![GitHub forks](https://img.shields.io/github/forks/semaecs/web-starter?style=social)
