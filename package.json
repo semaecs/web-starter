@@ -1,0 +1,24 @@
+{
+  "name": "web-starter",
+  "version": "1.0.0",
+  "description": "Project นี้สร้างขึ้นเพื่อความรวดเร็วในการเริ่มต้นทำเว็บ Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semaecs/web-starter.git"
+  },
+  "author": "Sema Petchaiploy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semaecs/web-starter/issues"
+  },
+  "homepage": "https://github.com/semaecs/web-starter#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "datatable": "^2.0.2",
+    "jquery": "^3.6.0"
+  }
+}
